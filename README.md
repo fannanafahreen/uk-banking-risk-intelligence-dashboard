@@ -157,5 +157,4 @@ Running the notebook will regenerate it automatically in under
 
 ## Author
 **Fannana Fahreen Aanan**  
-Aspiring Data Analyst  
 [GitHub](https://github.com/fannanafahreen)
